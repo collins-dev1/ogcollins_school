@@ -1,4 +1,4 @@
-import AboutUs from './src/about';
+import AboutUs from '../Pages/about';
 import Blog from './src/blog';
 import Contact from './src/contact';
 import Footer from './src/footer';

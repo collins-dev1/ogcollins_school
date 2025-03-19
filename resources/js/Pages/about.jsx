@@ -1,4 +1,4 @@
-import graduated from "./asset/graduated_student.jpeg"
+import graduated from "../Pages/src/asset/graduated_student.jpeg"
 
 const AboutUs = () => {
     return (

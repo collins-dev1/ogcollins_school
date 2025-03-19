@@ -60,4 +60,8 @@ class ProfileController extends Controller
 
         return Redirect::to('/');
     }
+
+    public function about(){
+        return view('/resources/js/Pages/src/about.jsx');
+    }
 }
