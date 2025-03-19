@@ -361,7 +361,7 @@
    justify-content: space-between;
    align-items: center;
    padding: 2rem;
-   background-image: url('/public/total_background1.jpeg');
+   background-image: url('../public/total_background1.jpeg');
    padding-inline: 8rem;
    position: relative;
 }
