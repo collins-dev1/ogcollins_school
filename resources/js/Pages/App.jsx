@@ -4,7 +4,7 @@ import Contact from './src/contact';
 import Footer from './src/footer';
 import Home from './src/home';
 import Login from './src/login';
-import Navbar from './src/navbar';
+import Navbar from '../Pages/navbar';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom/cjs/react-router-dom.min';
 import Signup from './src/signup';
 import './src/index.css';

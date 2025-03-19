@@ -1,4 +1,4 @@
-import my_image from "./asset/ogcollinscollegemain.png";
+import my_image from "../Pages/src/asset/ogcollinscollegemain.png";
 import { Link, useLocation } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 

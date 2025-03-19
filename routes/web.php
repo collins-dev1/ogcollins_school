@@ -18,6 +18,14 @@ Route::get('/about', function(){
     return Inertia::render('App');
 });
 
+Route::get('/contact', function(){
+    return Inertia::render('App');
+});
+
+Route::get('/blog', function(){
+    return Inertia::render('App');
+});
+
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

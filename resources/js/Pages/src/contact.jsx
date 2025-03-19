@@ -22,7 +22,7 @@ const Contact = () => {
 
                             Let me know if you want something more formal, friendly, or tailored to your business </p>
                     </div>
-                    <div className="mt-4">
+                    <div className="mt-4" id="form-cont">
                         <form>
                             <div className="full-name">
                                 <div>

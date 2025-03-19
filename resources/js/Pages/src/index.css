@@ -223,6 +223,7 @@
     height: 400px !important;
     width: 500px !important;
     object-fit: cover;
+    margin-top: 0 !important;
   }
 
   .contact-texting{
@@ -694,7 +695,7 @@ transition: all 0.3s ease-in-out;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/public/contact-us-image.jpeg);
+  background-image: url(../public/contact-us-image.jpeg);
   background-size: cover;
   background-position: center;
 }
@@ -716,6 +717,12 @@ transition: all 0.3s ease-in-out;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.main-contact img{
+    width: 1000px;
+    height: 500px;
+    margin-top: -11rem;
 }
 
 .contact-pic h1{
@@ -790,7 +797,7 @@ transition: all 0.3s ease-in-out;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/public/contact-us-image.jpeg);
+  background-image: url(../public/contact-us-image.jpeg);
   background-size: cover;
   background-position: center;
 }
