@@ -1,13 +1,16 @@
-import AboutUs from './about';
-import Blog from './blog';
-import Contact from './contact';
-import Footer from './footer';
-import Home from './home';
-import Login from './login';
-import Navbar from './navbar';
+import AboutUs from './src/about';
+import Blog from './src/blog';
+import Contact from './src/contact';
+import Footer from './src/footer';
+import Home from './src/home';
+import Login from './src/login';
+import Navbar from './src/navbar';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom/cjs/react-router-dom.min';
-import Signup from './signup';
-import './index.css';
+import Signup from './src/signup';
+import './src/index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';
+import "remixicon/fonts/remixicon.css";
 
 function App() {
   return (
@@ -39,7 +42,7 @@ function App() {
         <Footer />
 
       </div>
-      
+
     </Router>
   );
 }

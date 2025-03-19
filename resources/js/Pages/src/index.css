@@ -72,7 +72,7 @@
   outline: none;
   border: none;
   background-color: #00195F;
-  color: #fff;  
+  color: #fff;
   border-radius: 10px;
   font-size: 1rem;
   border: 2px solid transparent;
@@ -83,9 +83,9 @@
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -337,9 +337,9 @@
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -423,16 +423,16 @@
   align-items: center;
   gap: 1.8rem;
   border-radius: 10px;
-  box-shadow:  
+  box-shadow:
   4px 4px 10px rgba(0, 0, 0, 0.2),  /* Dark outer shadow */
   -4px -4px 10px rgba(255, 255, 255, 0.8); /* Light inner shadow */
 transition: all 0.3s ease-in-out;
 }
 
 .working-container div:hover{
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -443,7 +443,7 @@ transition: all 0.3s ease-in-out;
 .working-container div .search{
   background-color: #BFCFE7;
   color: #525CEB;
-} 
+}
 
 .working-container div i{
   font-size: 1.9rem;
@@ -486,9 +486,9 @@ transition: all 0.3s ease-in-out;
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -502,16 +502,16 @@ transition: all 0.3s ease-in-out;
 
 #card-holder .card{
   border-radius: 15px;
-  box-shadow:  
+  box-shadow:
   4px 4px 10px rgba(0, 0, 0, 0.2),  /* Dark outer shadow */
   -4px -4px 10px rgba(255, 255, 255, 0.8); /* Light inner shadow */
 transition: all 0.3s ease-in-out;
 }
 
 #card-holder .card:hover{
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -565,9 +565,9 @@ transition: all 0.3s ease-in-out;
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -607,7 +607,7 @@ transition: all 0.3s ease-in-out;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/public/about_pic.jpeg);
+  background-image: url(../public/about_pic.jpeg);
   background-size: cover;
   background-position: center;
 }
@@ -661,7 +661,7 @@ transition: all 0.3s ease-in-out;
   height: 100%;
   object-fit: cover;
   border-radius: 20px;
-  box-shadow:  
+  box-shadow:
     4px 4px 10px rgba(0, 0, 0, 0.2),  /* Dark outer shadow */
     -4px -4px 10px rgba(255, 255, 255, 0.8); /* Light inner shadow */
   transition: all 0.3s ease-in-out;
@@ -673,15 +673,15 @@ transition: all 0.3s ease-in-out;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow:  
+  box-shadow:
     4px 4px 10px rgba(0, 0, 0, 0.2),  /* Dark outer shadow */
     -4px -4px 10px rgba(255, 255, 255, 0.8); /* Light inner shadow */
   transition: all 0.3s ease-in-out;
 }
 .about-second .card:hover{
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -760,7 +760,7 @@ transition: all 0.3s ease-in-out;
   outline: none;
   border: none;
   background-color: #00195F;
-  color: #fff;  
+  color: #fff;
   border-radius: 10px;
   font-size: 1rem;
   border: 2px solid transparent;
@@ -771,9 +771,9 @@ transition: all 0.3s ease-in-out;
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -845,7 +845,7 @@ transition: all 0.3s ease-in-out;
   outline: none;
   border: none;
   background-color: #00195F;
-  color: #fff;  
+  color: #fff;
   border-radius: 10px;
   font-size: 1rem;
   border: 2px solid transparent;
@@ -856,9 +856,9 @@ transition: all 0.3s ease-in-out;
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -979,9 +979,9 @@ transition: all 0.3s ease-in-out;
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
 
@@ -1087,8 +1087,8 @@ transition: all 0.3s ease-in-out;
   color: #000;
   border: 2px solid #00195F;
   transition: all 0.5s 0.9ms ease-in-out;
-  box-shadow:  
-    6px 6px 15px rgba(0, 0, 0, 0.3),  
-    -6px -6px 15px rgba(255, 255, 255, 0.9); 
+  box-shadow:
+    6px 6px 15px rgba(0, 0, 0, 0.3),
+    -6px -6px 15px rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
